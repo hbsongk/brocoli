@@ -10,7 +10,8 @@
         android:id="@+id/appBarLayout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#bcaaa4">
+        android:background="#bcaaa4"
+        tools:ignore="MissingConstraints">
 
 
         <androidx.appcompat.widget.Toolbar
